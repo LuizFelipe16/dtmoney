@@ -1,46 +1,114 @@
-# Getting Started with Create React App
+![Banner](/src/assets/banner.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<br/>
 
-## Available Scripts
+# DTMoney
 
-In the project directory, you can run:
+### Ignite Project! Creation of a basic app for controlling finances focusing on the use of React with a fake api using MirageJS
 
-### `yarn start`
+<br/>
+<br/>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+[![PyPi license](https://badgen.net/pypi/license/pip/)](https://pypi.com/project/pip/) ![Badge](https://img.shields.io/static/v1?label=MadeWith&message=TypeScript&color=OO7accstyle=for-the-badge&logo=ghost) ![Badge](https://img.shields.io/static/v1?label=Usage&message=ReactJS&color=007accstyle=for-the-badge&logo=ghost) [![GitHub release](https://img.shields.io/github/release/Naereen/StrapDown.js.svg)](https://GitHub.com/Naereen/StrapDown.js/releases/)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+<br/>
+<br/>
 
-### `yarn test`
+🛠 Technologies
+=================
+The following tools were used in building the project:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- 👉 [ReactJS](https://pt-br.reactjs.org/)
+- 👉 [TypeScript](https://www.typescriptlang.org/)
+- 👉 [Styled Components](https://styled-components.com)
+- 👉 [Axios](https://axios-http.com/docs/intro)
+- 👉 [MirageJS](https://miragejs.com)
+- 👉 [React Modal](https://github.com/reactjs/react-modal)
+- 👉 [React Icons](https://react-icons.github.io/react-icons)
+- 👉 [React Toastify](https://fkhadra.github.io/react-toastify/introduction/)
 
-### `yarn build`
+<br/>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+<p align="center">
+  🚧  Project Status 🚀 Complete!  🚧
+</p>
+<br/>
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Getting Started
+=================
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+These instructions will get you a copy of the full project up and running on your local machine for development and testing purposes.
 
-### `yarn eject`
+The project can be built with npm or yarn, so choose one of the approach bellow in case you don't have any installed on your system.
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+- Npm is distributed with Node.js which means that when you download Node.js, you automatically get npm installed on your computer. [Node.js](https://nodejs.org/en/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- Yarn is a package manager built by Facebook Team and seems to be faster than npm in general.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+<br/>
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+Features 
+=================
+<br/>
 
-## Learn More
+- [x] ✅ MirageJS to simulate an API;
+- [x] ✅ Add transactions of two types (inbound and outbound);
+- [x] ✅ Calculation of balance by the balance of entries and exits;
+- [x] ✅ Transactions listing;
+- [x] ✅ Error message display;
+- [x] ✅ Notify user actions with react-toastify.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+<br/>
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+How to Install
+=================
+
+- To download the project follow the instructions bellow:
+
+```bash
+1. git clone 
+2. cd ignite-challenge-shopping-cart
+```
+
+- Install the dependencies and start the server:
+
+```bash
+3. yarn
+4. yarn start
+```
+- or
+
+```bash
+3. npm install
+4. npm run start
+```
+
+- Have fun just like me while programming
+
+<br/>
+
+Screen Shots
+=================
+
+- Home
+
+![ScreenShot](/src/assets/home.png)
+
+<br/>
+
+- Home Add Transactions
+
+![ScreenShot](/src/assets/addtransaction.png)
+
+<br/>
+
+Author
+=================
+
+Luiz Felipe S. Felizatti 🎯 
+
+Contact:
+
+- [Linkedin](https://www.linkedin.com/in/luiz-felipe-siqueira-felizatti-00783a1ab/)
+
+- [Instagram](https://www.instagram.com/luiz_2fs/)
