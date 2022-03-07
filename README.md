@@ -67,7 +67,7 @@ How to Install
 
 ```bash
 1. git clone 
-2. cd ignite-challenge-shopping-cart
+2. cd dtmoney
 ```
 
 - Install the dependencies and start the server:
